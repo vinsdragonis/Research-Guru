@@ -1,0 +1,39 @@
+User requirements:
+
+	1. Collaborative text / doc editor
+	2. Realtime chat
+	3. Blogging
+	4. Data mining
+	5. Plagiarism checker
+	6. Communities
+	7. Kickstart courses
+	8. Project showcasing
+	9. Research publications showcasing
+	10. Project management tools
+	11. Team builders
+	12. Project team recruitment system
+	13. Project idea request system
+	14. Suggestions system
+
+----------------------------------------------------------------------------------------------------------
+
+Stakeholders:
+
+	1. Researchers
+	2. Students
+	3. Professors and academic faculty
+	4. IT employees
+	5. Freelancers
+
+----------------------------------------------------------------------------------------------------------
+
+Invloved domains:
+
+	1. Web Development
+	2. Aritficial Intelligence
+	3. Cloud Computing
+	4. Project Management
+	5. Data mmining
+	6. Machine Learning
+
+----------------------------------------------------------------------------------------------------------
