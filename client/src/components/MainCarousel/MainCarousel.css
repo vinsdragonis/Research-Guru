@@ -1,0 +1,10 @@
+.carousel-img {
+    height: 30rem;
+    width: 75%;
+    /* margin-top: 50px; */
+    object-fit: cover;
+}
+
+p {
+    font-size: 20px;
+}

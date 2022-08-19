@@ -1,0 +1,18 @@
+.navbar {
+    background: none;
+}
+
+.brand {
+    font-size: 26px;
+}
+
+.link {
+    padding-left: 50px;
+    padding-top: 15px;
+    font-size: 16px;
+}
+
+.search {
+    padding-top: 10px;
+    padding-right: 30px;
+}

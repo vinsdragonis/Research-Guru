@@ -1,0 +1,41 @@
+.C3 {
+    padding-left: 17%;
+    padding-top: 10%;
+}
+
+.C3 h1 {
+    font-size: 72px;
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+}
+
+.C3 h1:nth-of-type(odd) {
+    color: #fff;
+}
+
+.C3 h1:nth-of-type(even) {
+    color: rgb(255, 170, 0);
+}
+
+.C3 h1:hover {
+    padding-left: 5%;
+    animation-name: example;
+    animation-duration: 0.25s;
+}
+
+@keyframes example {
+    0% {
+        padding-left: 0%;
+    }
+
+    25% {
+        padding-left: 2%;
+    }
+
+    50% {
+        padding-left: 3%;
+    }
+
+    100% {
+        padding-left: 5%;
+    }
+}
